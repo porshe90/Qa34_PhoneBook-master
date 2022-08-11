@@ -1,0 +1,2 @@
+16:08:10.743  INFO  tests.TestBase - Start method with name -->loginNegativeTestsWrongEmail
+16:08:10.754  INFO  tests.TestBase - Start method with name -->loginSuccess

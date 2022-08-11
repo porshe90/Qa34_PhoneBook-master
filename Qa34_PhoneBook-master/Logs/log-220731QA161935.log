@@ -1,0 +1,29 @@
+16:19:40.512  INFO  manager.ApplicationManager - All tests run in 'FIREFOX' browser
+16:19:41.947  INFO  manager.ApplicationManager - Current Url ---> https://contacts-app.tobbymarshall815.vercel.app/home
+16:19:42.034  INFO  tests.TestBase - Start method with name -->loginNegativeTestsWrongEmail
+16:19:42.037  INFO  manager.MyListener - Before Find Element by locator -->By.xpath: //button[text()='Sign Out']
+16:19:47.077  INFO  manager.MyListener - After Find Element by locatorBy.xpath: //button[text()='Sign Out']
+16:19:48.183  INFO  manager.MyListener - Before Find Element by locator -->By.xpath: //button[text()='Sign Out']
+16:19:48.808  INFO  manager.MyListener - The name of error method  is -->findElements
+16:19:48.824  INFO  manager.MyListener - Description of  Exception --->org.openqa.selenium.WebDriverException: Failed to interpret value as array
+Build info: version: '4.1.4', revision: '535d840ee2'
+System info: host: 'MBP-Taya.lan', ip: 'fe80:0:0:0:8a3:7de9:9053:ddfe%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '11.6.5', java.version: '11.0.15.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [a401fb06-d413-419f-b302-017058e9fc86, findElements {using=xpath, value=//button[text()='Sign Out']}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 101.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20220526203855, moz:debuggerAddress: localhost:49504, moz:geckodriverVersion: 0.30.0, moz:headless: false, moz:processID: 19819, moz:profile: /var/folders/s_/hl4vhy0959g..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: MAC, platformName: MAC, platformVersion: 20.6.0, proxy: Proxy(), se:cdp: ws://localhost:49504/devtoo..., se:cdpVersion: 85.0, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: a401fb06-d413-419f-b302-017058e9fc86
+16:19:48.829  INFO  tests.TestBase - Start method with name -->loginSuccess
+16:19:48.830  INFO  manager.MyListener - Before Find Element by locator -->By.xpath: //button[text()='Sign Out']
+16:19:48.877  INFO  manager.MyListener - The name of error method  is -->findElements
+16:19:48.878  INFO  manager.MyListener - Description of  Exception --->org.openqa.selenium.UnhandledAlertException: Dismissed user prompt dialog: Wrong email or password format
+            Email must contains one @ and minimum 2 symbols after last dot
+            Password must contain at least one uppercase letter!
+            Password must contain at least one lowercase letter!
+            Password must contain at least one digit!
+            Password must contain at least one special symbol from [?$?,?~?,?-?,?_?]!: 
+Build info: version: '4.1.4', revision: '535d840ee2'
+System info: host: 'MBP-Taya.lan', ip: 'fe80:0:0:0:8a3:7de9:9053:ddfe%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '11.6.5', java.version: '11.0.15.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [a401fb06-d413-419f-b302-017058e9fc86, findElements {using=xpath, value=//button[text()='Sign Out']}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 101.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20220526203855, moz:debuggerAddress: localhost:49504, moz:geckodriverVersion: 0.30.0, moz:headless: false, moz:processID: 19819, moz:profile: /var/folders/s_/hl4vhy0959g..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: MAC, platformName: MAC, platformVersion: 20.6.0, proxy: Proxy(), se:cdp: ws://localhost:49504/devtoo..., se:cdpVersion: 85.0, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: a401fb06-d413-419f-b302-017058e9fc86

@@ -1,0 +1,12 @@
+16:16:42.541  INFO  manager.ApplicationManager - All tests run in 'CHROME' browser
+16:16:43.695  INFO  manager.ApplicationManager - Current Url ---> https://contacts-app.tobbymarshall815.vercel.app/home
+16:16:43.743  INFO  tests.TestBase - Start method with name -->loginNegativeTestsWrongEmail
+16:16:43.748  INFO  manager.MyListener - Before Find Element by locator -->By.xpath: //button[text()='Sign Out']
+16:16:48.806  INFO  manager.MyListener - After Find Element by locatorBy.xpath: //button[text()='Sign Out']
+16:16:49.507  INFO  manager.MyListener - Before Find Element by locator -->By.xpath: //button[text()='Sign Out']
+16:16:50.190  INFO  manager.MyListener - After Find Element by locatorBy.xpath: //button[text()='Sign Out']
+16:16:50.322  INFO  tests.TestBase - Start method with name -->loginSuccess
+16:16:50.324  INFO  manager.MyListener - Before Find Element by locator -->By.xpath: //button[text()='Sign Out']
+16:16:55.406  INFO  manager.MyListener - After Find Element by locatorBy.xpath: //button[text()='Sign Out']
+16:16:56.109  INFO  manager.MyListener - Before Find Element by locator -->By.xpath: //button[text()='Sign Out']
+16:16:56.253  INFO  manager.MyListener - After Find Element by locatorBy.xpath: //button[text()='Sign Out']

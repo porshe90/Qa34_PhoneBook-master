@@ -1,0 +1,54 @@
+15:49:56.460  INFO  manager.ApplicationManager - All tests run in 'CHROME' browser
+15:49:58.415  INFO  manager.ApplicationManager - Current Url ---> https://contacts-app.tobbymarshall815.vercel.app/home
+15:49:58.474  INFO  tests.TestBase - Start method with name -->loginNegativeTestsWrongEmail
+15:49:58.479  INFO  manager.MyListener - Before Find Element by locator -->By.xpath: //button[text()='Sign Out']
+15:50:03.535  INFO  manager.MyListener - After Find Element by locatorBy.xpath: //button[text()='Sign Out']
+15:50:04.095  INFO  manager.MyListener - Before Find Element by locator -->By.xpath: //button[text()='Sign Out']
+15:50:04.812  INFO  manager.MyListener - After Find Element by locatorBy.xpath: //button[text()='Sign Out']
+15:50:04.903  INFO  tests.TestBase - Start method with name -->loginSuccess
+15:50:04.906  INFO  manager.MyListener - Before Find Element by locator -->By.xpath: //button[text()='Sign Out']
+15:50:09.973  INFO  manager.MyListener - After Find Element by locatorBy.xpath: //button[text()='Sign Out']
+15:50:10.825  INFO  manager.MyListener - Before Find Element by locator -->By.xpath: //button[text()='Sign Out']
+15:50:11.070  INFO  manager.MyListener - After Find Element by locatorBy.xpath: //button[text()='Sign Out']
+15:50:11.073  INFO  tests.TestBase - Start method with name -->registrationSuccess
+15:50:11.074  INFO  manager.MyListener - Before Find Element by locator -->By.xpath: //button[text()='Sign Out']
+15:50:11.092  INFO  manager.MyListener - After Find Element by locatorBy.xpath: //button[text()='Sign Out']
+15:50:11.617  INFO  tests.TestBase - Start method with name -->addNewContactSuccess
+15:50:11.618  INFO  manager.MyListener - Before Find Element by locator -->By.xpath: //button[text()='Sign Out']
+15:50:11.837  INFO  manager.MyListener - After Find Element by locatorBy.xpath: //button[text()='Sign Out']
+15:50:11.869  INFO  tests.TestBase - Contact is  -->Contact(name=Dolly1562, lastname=Wok, phone=1231231562, email=wook@mail.com, address=TelAviv, description=The best friend)
+15:50:13.329  INFO  manager.MyListener - Before Find Element by locator -->By.cssSelector: h2
+15:50:13.697  INFO  manager.MyListener - After Find Element by locatorBy.cssSelector: h2
+15:50:13.711  INFO  tests.TestBase - Check name - Dolly1562
+15:50:13.712  INFO  manager.MyListener - Before Find Element by locator -->By.cssSelector: h3
+15:50:13.733  INFO  manager.MyListener - After Find Element by locatorBy.cssSelector: h3
+15:50:13.750  INFO  tests.TestBase - Check phone -1231231562
+15:50:13.752  INFO  tests.TestBase - Start method with name -->removeAllContactsSuccess
+15:50:13.753  INFO  manager.MyListener - Before Find Element by locator -->By.xpath: //button[text()='Sign Out']
+15:50:13.770  INFO  manager.MyListener - After Find Element by locatorBy.xpath: //button[text()='Sign Out']
+15:50:13.770  INFO  manager.MyListener - Before Find Element by locator -->By.cssSelector: .contact-item_card__2SOIM
+15:50:13.795  INFO  manager.MyListener - After Find Element by locatorBy.cssSelector: .contact-item_card__2SOIM
+15:50:17.616  INFO  manager.MyListener - Before Find Element by locator -->By.cssSelector: .contact-item_card__2SOIM
+15:50:17.873  INFO  manager.MyListener - After Find Element by locatorBy.cssSelector: .contact-item_card__2SOIM
+15:50:18.500  INFO  manager.MyListener - Before Find Element by locator -->By.cssSelector: .contact-item_card__2SOIM
+15:50:18.523  INFO  manager.MyListener - After Find Element by locatorBy.cssSelector: .contact-item_card__2SOIM
+15:50:19.166  INFO  manager.MyListener - Before Find Element by locator -->By.cssSelector: .contact-item_card__2SOIM
+15:50:19.197  INFO  manager.MyListener - After Find Element by locatorBy.cssSelector: .contact-item_card__2SOIM
+15:50:19.818  INFO  manager.MyListener - Before Find Element by locator -->By.cssSelector: .contact-item_card__2SOIM
+15:50:19.830  INFO  manager.MyListener - After Find Element by locatorBy.cssSelector: .contact-item_card__2SOIM
+15:50:20.425  INFO  manager.MyListener - Before Find Element by locator -->By.cssSelector: .contact-item_card__2SOIM
+15:50:25.440  INFO  manager.MyListener - After Find Element by locatorBy.cssSelector: .contact-item_card__2SOIM
+15:50:25.477  INFO  tests.TestBase - Start method with name -->removeOneContactSuccess
+15:50:25.478  INFO  manager.MyListener - Before Find Element by locator -->By.xpath: //button[text()='Sign Out']
+15:50:25.491  INFO  manager.MyListener - After Find Element by locatorBy.xpath: //button[text()='Sign Out']
+15:50:25.491  INFO  manager.MyListener - Before Find Element by locator -->By.cssSelector: .contact-item_card__2SOIM
+15:50:30.531  INFO  manager.MyListener - After Find Element by locatorBy.cssSelector: .contact-item_card__2SOIM
+15:50:34.145  INFO  manager.MyListener - Before Find Element by locator -->By.cssSelector: .contact-item_card__2SOIM
+15:50:34.417  INFO  manager.MyListener - After Find Element by locatorBy.cssSelector: .contact-item_card__2SOIM
+15:50:34.418  INFO  manager.HelperBase - Count before remove is 3
+15:50:34.418  INFO  manager.MyListener - Before Find Element by locator -->By.cssSelector: .contact-item_card__2SOIM
+15:50:34.438  INFO  manager.MyListener - After Find Element by locatorBy.cssSelector: .contact-item_card__2SOIM
+15:50:34.439  INFO  manager.HelperBase - List of Contact not Empty
+15:50:35.063  INFO  manager.MyListener - Before Find Element by locator -->By.cssSelector: .contact-item_card__2SOIM
+15:50:35.084  INFO  manager.MyListener - After Find Element by locatorBy.cssSelector: .contact-item_card__2SOIM
+15:50:35.084  INFO  manager.HelperBase - Count after remove is 2

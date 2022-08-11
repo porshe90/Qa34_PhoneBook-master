@@ -1,0 +1,7 @@
+16:13:46.687  INFO  manager.ApplicationManager - All tests run in 'FIREFOX' browser
+16:13:48.225  INFO  manager.ApplicationManager - Current Url ---> https://contacts-app.tobbymarshall815.vercel.app/home
+16:13:48.263  INFO  tests.TestBase - Start method with name -->loginSuccess
+16:13:48.266  INFO  manager.MyListener - Before Find Element by locator -->By.xpath: //button[text()='Sign Out']
+16:13:53.305  INFO  manager.MyListener - After Find Element by locatorBy.xpath: //button[text()='Sign Out']
+16:13:54.526  INFO  manager.MyListener - Before Find Element by locator -->By.xpath: //button[text()='Sign Out']
+16:13:55.061  INFO  manager.MyListener - After Find Element by locatorBy.xpath: //button[text()='Sign Out']
